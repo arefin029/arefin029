@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @arefin029
-- 👀 I’m interested in Biomedical Image Processing, Monte-Carlo Simulations and Optical Signal Analysis
+- 👋 Hi, I’m Shahriar... I am currently doing PhD in Bioengineering at Temple University.
+- 
+- 👀 I’m interested in Biomedical Image Processing, Monte-Carlo Simulations and Optical Signal Analysis. 
+
 
 
 <!---
