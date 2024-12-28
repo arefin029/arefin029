@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shahriar... I am currently doing PhD in Bioengineering at Temple University.
+- 👋 Hi, I’m Shahriar... I have finished my PhD in Bioengineering from Temple University. 
 - 
 - 👀 I’m interested in Biomedical Image Processing, Monte-Carlo Simulations and Optical Signal Analysis. 
 
