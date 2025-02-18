@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Shahriar... I have finished my PhD in Bioengineering from Temple University. 
 - 
-- 👀 I’m interested in Biomedical Image Processing, Monte-Carlo Simulations and Optical Signal Analysis. 
+-  I’m interested in Biomedical Image Processing, Monte-Carlo Simulations and Optical Signal Analysis.
+
+- 
 
 
 
